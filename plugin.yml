@@ -1,0 +1,7 @@
+name: UltraTags
+main: xyz.ultra.main.Main
+author: Tijela_Quebrada
+description: Plugin para Developers Community
+version: 1.0
+commands:
+  tag:
